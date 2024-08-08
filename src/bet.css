@@ -1,0 +1,41 @@
+.betBox {
+    background-color: black;
+    background-image: linear-gradient(black,rgb(57, 57, 57));
+    
+    width: 15vw;
+    height: 70vh;
+    border-radius: 10px;
+    color: white;
+    position: fixed; /* Changed to fixed to ensure it stays at the right of the viewport */
+    top: 22%; /* Adjusted to be centered vertically */
+    right: 0;
+    overflow-y: auto;
+    
+  }
+  .bet-sel{
+    border: 2px solid darkgoldenrod;
+    background-color: white;
+    color: black;
+  height:5vh ;
+  width: 10vw;
+  border-radius:10px ;
+  -webkit-border-radius:10px ;
+  -moz-border-radius:10px ;
+  -ms-border-radius:10px ;
+  -o-border-radius:10px ;
+
+}
+.betSelectionBox{
+
+    background-color: white;
+    color: black;
+  height:60vh ;
+
+  border-radius:10px ;
+  -webkit-border-radius:10px ;
+  -moz-border-radius:10px ;
+  -ms-border-radius:10px ;
+  -o-border-radius:10px ;
+}
+
+  
